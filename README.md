@@ -138,14 +138,14 @@ for z in list.items():
 <img src="praktikum 5/ss 2.png">
 
 ### Hasil program
-<p align="center"> <img src="praktikum 5/praktikum 5.png">
+<p align="center"> <img src="SS3.png">
 </p>
 
 >Hasil hanya sebagian dari fungsi program
 
 
 ### Flowchart
-<p align="center"><img src="praktikum 5/flow chart.png">
+<p align="center"><img src="flowchar.png">
 
 *********************************************************
 
